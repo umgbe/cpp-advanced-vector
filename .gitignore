@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+advanced-vector/main
+.vscode/settings.json
+.vscode/tasks.json
